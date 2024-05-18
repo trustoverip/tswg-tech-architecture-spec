@@ -13,7 +13,7 @@ ToIP Technical Architecture Specification
 
 **Contributors:**
 
-- [Darrell O'Donnell](https://github.com/darrellodonnell)
+- [Darrell O'Donnell](https://github.com/darrellodonnell), [Continuum Loop Inc.](https://www.continuumloop.com)
 
 **Participate:**
 
