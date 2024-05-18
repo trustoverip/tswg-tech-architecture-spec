@@ -24,7 +24,7 @@
       "source": {
         "host": "github",
         "account": "trustoverip",
-        "repo": "specification-template"
+        "repo": "tswg-tech-architecture-spec"
       }
     }
   ]
