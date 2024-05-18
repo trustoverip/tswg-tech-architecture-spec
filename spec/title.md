@@ -1,22 +1,24 @@
-ToIP Template Specification
+ToIP Technical Architecture Specification
 ==================
 
 **Specification Status**: v1.0 Draft
 
 **Latest Draft:**
 
-[https://github.com/trustoverip/specification-template](https://github.com/trustoverip/specification-template)
+[https://github.com/trustoverip/specification-template](https://github.com/trustoverip/tswg-tech-architecture-spec)
 
 **Editors:**
 
-- [Kevin Griffin](https://github.com/m00sey), [GLEIF](https://gleif.org)
+- [Drummond Reed](https://github.com/talltree)
 
 **Contributors:**
 
+- [Darrell O'Donnell](https://github.com/darrellodonnell), [Continuum Loop Inc.](https://www.continuumloop.com)
+
 **Participate:**
 
-~ [GitHub repo](https://github.com/trustoverip/specification-template)
-~ [Commit history](https://github.com/trustoverip/specification-template/commits/main)
+~ [GitHub repo](https://github.com/trustoverip/tswg-tech-architecture-spec)
+~ [Commit history](https://github.com/tswg-tech-architecture-spec/commits/main)
 
 ------------------------------------
 
