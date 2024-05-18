@@ -1,8 +1,6 @@
 # Specification Template
 
-This is the working area for the Trust over IP specification template.
-
-* [Editor's Copy](https://trustoverip.github.io/specification-template/)
+This is the working area for the Trust over IP Technical Architecture Specification
 
 ## Using this template
 
