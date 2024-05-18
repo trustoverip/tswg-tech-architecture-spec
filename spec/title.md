@@ -18,7 +18,7 @@ ToIP Technical Architecture Specification
 **Participate:**
 
 ~ [GitHub repo](https://github.com/trustoverip/tswg-tech-architecture-spec)
-~ [Commit history](https://github.com/trustoverip/specification-template/commits/main)
+~ [Commit history](https://github.com/tswg-tech-architecture-spec/commits/main)
 
 ------------------------------------
 
